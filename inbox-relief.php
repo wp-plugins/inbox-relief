@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Inbox Relief
-Plugin URI: #
+Plugin URI: http://www.trevorfitzgerald.com/projects/inbox-relief/
 Description: Email batcher that takes all the emails that would normally get sent out individually, compiles them into just one email, then sends it out once a day.  A daily digest, if you will.
 Author: Trevor Fitzgerald
 Version: 0.2
